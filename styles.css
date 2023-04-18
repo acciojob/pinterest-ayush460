@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+img{
+	height:250px;
+	width:500px;
+}
+.hero{
+	display:flex;
+	gap:50px;
+}
+.text{
+	width:150vh;
+	position:relative;
+	border:2px solid red;
+	
+	width:250px;
+  padding:0 10px 25px;
+	font-size:10px;
+}
