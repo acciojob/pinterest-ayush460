@@ -8,11 +8,20 @@ img{
 	gap:50px;
 }
 .text{
-	width:150vh;
-	position:relative;
-	border:2px solid red;
 	
-	width:250px;
-  padding:0 10px 25px;
-	font-size:10px;
+    width: 900px;
+    height: 400px;
+   
+    padding: 25px;
+}
+p{
+    padding: 0px;
+}
+.btn{
+    width:200px;
+    height: 75px;
+    background: red;
+    color: white
+   
+
 }
